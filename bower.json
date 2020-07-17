@@ -1,0 +1,21 @@
+{
+  "name": "portifolio",
+  "homepage": "https://github.com/michaelmascarenhas/meuportifolio",
+  "authors": [
+    "Michael Mascarenhas <michael.mascarenhas3@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
+}
