@@ -1,0 +1,22 @@
+{
+  "name": "portifolio",
+  "version": "1.0.0",
+  "description": "\"# meuportifolio\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelmascarenhas/meuportifolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelmascarenhas/meuportifolio/issues"
+  },
+  "homepage": "https://github.com/michaelmascarenhas/meuportifolio#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
