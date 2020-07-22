@@ -16,7 +16,10 @@
     "url": "https://github.com/michaelmascarenhas/meuportifolio/issues"
   },
   "homepage": "https://github.com/michaelmascarenhas/meuportifolio#readme",
-  "dependencies": {
-    "gulp": "^4.0.2"
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-ruby-sass": "^4.0.0",
+    "gulp-watch": "^5.0.1"
   }
 }
